@@ -1,4 +1,4 @@
-# [TeleMute](https://github.com/MutePuker/TeleMute)
+# [black&white](https://github.com/babakkhan375/blackandwhite_tg)
 *TG-CLI based broadcasting bot!*
 # Install
 ```
