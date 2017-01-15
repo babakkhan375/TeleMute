@@ -3,8 +3,7 @@
 # Install
 ```
 cd $HOME
-git clone https://github.com/MutePuker/TeleMute.git
-cd TeleMute
+git clone https://github.com/babakkhan375/blackandwhite_tg
 chmod +x install.sh
 chmod +x launch.sh
 chmod +x tg
@@ -14,11 +13,9 @@ chmod +x tg
 ```
 Create a bot!
 # Help And More...
-send ```Your PM``` to @MutePukerBot in telegram
+send ```Your PM``` to @babakkhanbot in telegram
 # Developers
-* [@MutePuker](https://telegram.me/MutePuker) - Shervin
-* [@amirhossein_h_h_h](https://telegram.me/amirhossein_h_h_h) - amirhosein
-
+* [@sudo_hacker](https://telegram.me/sudo_hacker) - babakkhan
 # Commands
 
 ### All Commands
@@ -80,4 +77,4 @@ send ```Your PM``` to @MutePukerBot in telegram
 > [!/]unmute all 
 >>>UnMute All MSG To Group
 
-<b>Powered By MuteTeam</b>
+<b>Powered By @blackandwhiteTM</b>
